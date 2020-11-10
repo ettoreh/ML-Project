@@ -1,1 +1,3 @@
 # 1st method of ML
+def f(x):
+return x*x
